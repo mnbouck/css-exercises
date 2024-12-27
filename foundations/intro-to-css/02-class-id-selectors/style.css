@@ -1,9 +1,15 @@
+/*
+make sure to keep multiple word fonts in quotes
+*/
 .odd {
     background-color: #e7c7c7;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.odd.bitchin {
+/* 
+dont have to put both classes
+*/
+.bitchin {
     font-size: 24px;
 }
 
